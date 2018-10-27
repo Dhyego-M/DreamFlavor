@@ -1,0 +1,19 @@
+body {
+ background-image:url(assets/img/fundo.png);
+ background-repeat:repeat-x,repeat-x; 
+ position: absolute;
+ margin: 0px;
+}
+#font {font-size: 28px;}
+#menu {margin: 15px;}
+	ul{
+	margin: 0;
+	list-style: none;}
+	#menu ul li{display: inline;}
+	#menu ul li a{
+	padding: 10px 10px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;}
+	#menu ul li a:hover{
+	color: #a1a1ff;}
